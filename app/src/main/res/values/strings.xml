@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calcolo Rata</string>
+    <string name="app_subtitle">Ammortamento alla Francese</string>
+    <string name="section_parameters">Parametri del Finanziamento</string>
+    <string name="loan_amount">Importo Finanziamento</string>
+    <string name="duration">Durata</string>
+    <string name="duration_years">Anni</string>
+    <string name="duration_months">Mesi</string>
+    <string name="interest_rate">Tasso Annuo (TAN)</string>
+    <string name="monthly_installment">Rata Mensile</string>
+    <string name="total_paid">Totale da Rimborsare</string>
+    <string name="total_interest">Totale Interessi</string>
+    <string name="principal_borrowed">Capitale Richiesto</string>
+    <string name="breakdown_title">Ripartizione Costo Totale</string>
+    <string name="amortization_schedule_title">Piano di Ammortamento</string>
+    <string name="amortization_schedule_subtitle">Dettaglio rata per rata</string>
+    <string name="num_short">N°</string>
+    <string name="quota_capital">Capitale</string>
+    <string name="quota_interest">Interessi</string>
+    <string name="residual_debt">Debito Residuo</string>
+    <string name="disclaimer">Calcolo a rata costante con metodo francese. I valori sono al lordo di eventuali imposte di bollo o spese di istruttoria accessorie.</string>
+    <string name="frequency">Frequenza Rata</string>
+    <string name="frequency_monthly">Mensile</string>
+    <string name="show_table">Mostra Tabella Ammortamento</string>
+    <string name="hide_table">Nascondi Tabella</string>
+    <string name="summary_year">Anno %1$d</string>
+    <string name="group_by_year">Raggruppa per anno</string>
+    <string name="all_installments">Tutte le rate</string>
+</resources>

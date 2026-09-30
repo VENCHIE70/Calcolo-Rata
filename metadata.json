@@ -1,0 +1,6 @@
+{
+  "name": "Calcolo Rata",
+  "description": "Calcolo rata del finanziamento con ammortamento alla francese, importo, durata e tasso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
